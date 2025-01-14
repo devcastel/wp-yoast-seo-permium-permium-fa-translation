@@ -2,7 +2,7 @@
 This repository contains the Persian (Farsi) full translation for the Yoast SEO Permium plugin. You can use these translations to use the plugin in Persian.
 
 ## How to use
-1. Download the `.json` files.
+1. Download the `.json` file.
 2. Upload them to the folder(wp-content/plugins.wordpress-seo-permium/languages) in your WordPress installation.
 
 3. --------
@@ -16,6 +16,6 @@ This repository contains the Persian (Farsi) full translation for the Yoast SEO 
 
 
 ## نحوه استفاده
-1. فایل‌های `.json` را دانلود کنید.
+1. فایل‌ `.json` را دانلود کنید.
 2. آن‌ها را در پوشه‌ی (wp-content/plugins.wordpress-seo-permium/languages) در پوشه وردپرس خود قرار دهید.
 
